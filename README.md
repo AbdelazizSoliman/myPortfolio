@@ -12,8 +12,8 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-    - [languge](#Languge)
     - [Tech Stack](#tech-stack)
+    - [languge](#Languge)
     - [Key Features](#key-features)
 - [👥 Authors](#authors)
 - [⭐️ Show your support](#support)
